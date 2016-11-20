@@ -29,3 +29,4 @@ Confirmed schedule details are **in bold**. Descriptions and logistic details wi
 | --- | --- | --- | --- | --- |
 | 14:00 | 1:20 | **D** | _Presentation and Panel: History of Canadian Computing and Toronto's Networks_  <br /> [Session Description]()  | _??_ |
 | 15:30 | 1:50 | **E** | _Interactive Session: Building the Networks We Want_  <br /> [Session Description]() | _??_ |
+| 17:30 | 0:20 | **F** | _Closing: Wrap Up and Where Do We Go_  <br /> [Session Description]() | _??_ |

@@ -4,6 +4,10 @@
 
 [Aim for a description that is 1-2 paragraphs (75 - 150 words)]
 
+## Session Objective
+
+[Identify 1-3 key objectives for the session (could be participant takeaways)]
+
 ## Length
 
 [Determined based on schedule slot]
