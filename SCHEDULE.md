@@ -20,7 +20,7 @@ Confirmed schedule details are **in bold**. Descriptions and logistic details wi
 | --- | --- | --- | --- | --- |
 | 9:30 | 0:20 | **A** | **Welcome & Intro**  <br /> [Session Description]() | _??_ |
 | 10:00 | 0:50 | **B** | _Steamlink_  <br /> [Session Description]() | udit (**confirmed**) |
-| 11:00 | 1:50 | **C ** | _tomesh, Raspberry Pis, CJDNS nodes, fc00 and VPN_  <br /> [Session Description]() | benhylau (**confirmed**) and _??_ |
+| 11:00 | 1:50 | **C** | _tomesh, Raspberry Pis, CJDNS nodes, fc00 and VPN_  <br /> [Session Description]() | benhylau (**confirmed**) and _??_ |
 | 13:00 | 0:50 |  | **LUNCH BREAK** | _N/A_ |
 
 ### PM "Past & Future"

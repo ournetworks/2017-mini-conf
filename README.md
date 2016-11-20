@@ -27,8 +27,10 @@ Attend to learn about current projects in the city of Toronto, a discussion of o
 
 No previous experience necessary! Toronto Mesh welcomes people from all backgrounds and technical skill levels.
 
-Code of Conduct
+### Code of Conduct
+
 This event has a [code of conduct]().
 
-Access
+### Access
+
 The venue is an accessible space.
