@@ -6,7 +6,7 @@ This repository collect organizing materials for the upcoming 'State of Our Netw
 'State of Our Networks' will be a one day mini-conference in January which will:
 
 - Provide an introduction to tomesh and related community infrastructure projects currently ongoing in Toronto
-- Provide historical
+- Provide historical account of successes as well as obstacles any community wireless project might face
 - Generate dialogue regarding next steps for deployment as well as gain broader feedback on our network vision
 
 For tomesh the goals include:
