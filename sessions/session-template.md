@@ -14,13 +14,19 @@
 
 ## Materials
 
+[List materials you as presenter requires AND participant materials (indicate if there is a purchase/cost involved)]
+
+## Registration
+
+[List max number of participants]
+
 ## Presenter(s)
 
-Name: Your Name
-Email: name@youremail.com
-Twitter: [@you](url to twitter account)
-GitHub: [you](url to GitHub account)
-Url(s): [yourwebsite.com](url to website)
+Name: Your Name  
+Email: name@youremail.com  
+Twitter: [@you](url to twitter account)  
+GitHub: [you](url to GitHub account)  
+Url(s): [yourwebsite.com](url to website)  
 
 [If multiple presenters please complete details for all]
 
