@@ -3,7 +3,7 @@
 ## Friday Social
 
 Date: January 13, 2017  
-Time: 19:00 - 21:00    
+Time: 19:00 - 21:00  
 Location: _TBD_
 
 ## Saturday Mini-conference
