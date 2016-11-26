@@ -7,6 +7,6 @@ On January 14, 2017 from 9:00 am to 6:00 pm join us for a one-day hands-on confe
 - hear about the history of community networks in our city
 - discuss how we can build a resilient network that addresses barriers in the future
 
-$10 suggested donation at the door, no one turned away for lack of funds, register by email at `hello@tomesh.net` or online at [tomesh.net/state-of-our-networks](https://tomesh.net/state-of-our-networks).
+$10 suggested donation at the door, no one turned away for lack of funds, register by email at `hello@tomesh.net` and see [tomesh.net/state-of-our-networks](https://tomesh.net/state-of-our-networks) for event details.
 
 No previous experience necessary! Toronto Mesh welcomes people from all backgrounds and technical skill levels and strives to provide a harassment-free environment. This event has a [code of conduct](https://tomesh.net/code-of-conduct/).
