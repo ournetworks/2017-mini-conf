@@ -24,9 +24,9 @@ Brought to you by Toronto Mesh, 'State of our Networks' is a one-day hands-on co
 
 On January 14, 2017 from 9:00 to 18:00 join us for a one-day hands-on conference to:
 
-- learn and participate in hands on workshops led by current networking projects in the city of Toronto
+- participate in hands-on workshops led by Toronto mesh and community networking projects
 - hear about the history of community networks in our city
-- discuss how we can build a resilient network that addresses barriers in the future
+- join us in planning how to build resilient and accessible connections to the internet
 
 No previous experience necessary!
 
