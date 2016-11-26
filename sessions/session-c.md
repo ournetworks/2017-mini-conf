@@ -29,16 +29,16 @@ We will run [secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt) on 
 
 ## Presenter(s)
 
-Name: ansuz
-Email: ansuz 4t transitiontech d0t see eh
-Twitter: [@fc00ansuz](https://twitter.com/fc00ansuz)
-GitHub: [ansuz](https://github.com/ansuz)
+Name: ansuz  
+Email: ansuz 4t transitiontech d0t see eh  
+Twitter: [@fc00ansuz](https://twitter.com/fc00ansuz)  
+GitHub: [ansuz](https://github.com/ansuz)  
 Url(s): [transitiontech.ca](https://transitiontech.ca)
 
-Name: Benedict Lau
-Email: benedict.lau@groundupworks.com
-Twitter: [@LauBenedict](https://twitter.com/LauBenedict)
-GitHub: [benhylau](https://github.com/benhylau)
+Name: Benedict Lau  
+Email: benedict.lau@groundupworks.com  
+Twitter: [@LauBenedict](https://twitter.com/LauBenedict)  
+GitHub: [benhylau](https://github.com/benhylau)  
 Url(s): [groundupworks.com](http://www.groundupworks.com)
 
 ## Presenter Bio
