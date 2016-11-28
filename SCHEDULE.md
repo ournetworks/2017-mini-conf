@@ -25,7 +25,7 @@ Confirmed schedule details are **in bold**. Descriptions and logistic details wi
 | 9:00 | 0:15 |  | **REGISTRATION OPENS** | _N/A_ |   |
 | 9:15 | 0:30 | **A** | **Welcome & Intro to mesh and community wireless**  <br /> [Session Description]() | _??_ |   |
 | 9:45 | 1:05 | **B** | _Workshop: Steamlink_  <br /> [Session Description]() | udit | ✓ |
-| 11:00 | 1:20 | **C** | _Workshop: Meshing with cjdns and messing with secure-scuttlebutt_  <br /> [Session Description](https://github.com/tomeshnet/mini-conf-2017/blob/master/sessions/session-c.md) | ansuz and benhylau | ✓ |
+| 11:00 | 1:20 | **C** | _Workshop: Build a Mesh Node_  <br /> [Session Description](https://github.com/tomeshnet/mini-conf-2017/blob/master/sessions/session-c.md) | ansuz and benhylau | ✓ |
 | 12:30 | 0:30 | **D** | _Demo: MeshISP_  <br /> [Session Description]() | _ethan_, _??_, and _??_ |   |
 | 13:00 | 0:50 |  | **LUNCH BREAK** |   |   |
 
