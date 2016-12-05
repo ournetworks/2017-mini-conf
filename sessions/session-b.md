@@ -2,9 +2,11 @@
 
 ## Description
 
-The last few year have been an exciting time for the DIY electronics community. There has been an explosion of sensors, actuators, and micro-controllers to tinker with. Additionally, with access to inexpensive hardware like the Photon, Raspberry Pi, and ESP8266 it’s easier than ever to embed web-services directly in to our projects and this connectivty enables new applications. However, most of these projects connect over WiFi, which isn't well suited for low-power/low-bandwidth applications. WiFi usually limits our projects to indoors or tethered to our smartphones. These mobility and power limitations impede projects like distributed citizen science, connected guerrilla art, and remote sensing. LoRa is an inexpensive low-power/low-bandwidth radio technology that is one great solution to this problem. In urban settings LoRa radios can often provide low bandwidth connectivity of up to 1-2 kms and can be reasonably powered with AA batteries.
+The last few years have been an exciting time for the DIY electronics community. There has been an explosion of sensors, actuators, and micro-controllers to tinker with. Additionally, with access to inexpensive hardware like the [Photon](https://store.particle.io/), [Raspberry Pi](https://www.raspberrypi.org/), and [ESP8266](https://en.wikipedia.org/wiki/ESP8266), it is easier than ever to embed web-services directly into our projects and this connectivity enables new applications. However, most of these projects connect over WiFi, which is not well suited for low-power/low-bandwidth applications. WiFi usually limits our projects to indoors or tethered to our smartphones. These mobility and power limitations impede projects like distributed citizen science, connected guerrilla art, and remote sensing.
 
-In this session I will give a brief overview of LPWAN's (low-power wide area networks) and the technology behind LoRa. There is also a mini wokshop component to this session where we will set up infrastructure for an LPWAN to monitor sensors connect through LoRa radios.
+[LoRa](https://www.lora-alliance.org/) is an inexpensive low-power/low-bandwidth radio technology that is one great solution to this problem. In urban settings, LoRa radios can often provide low bandwidth connectivity of up to 1-2km and can be reasonably powered with AA batteries.
+
+In this session, I will give a brief overview of low-power wide area networks (LPWAN's) and the technology behind LoRa. There is also a mini workshop component to this session where we will set up infrastructure for an LPWAN to monitor sensors connect through LoRa radios.
 
 ## Session Objective
 
