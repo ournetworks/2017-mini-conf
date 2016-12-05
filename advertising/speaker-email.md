@@ -13,5 +13,8 @@ In the afternoon we are organizing an interactive/discussion session around visi
 **Event Details**
 9:00 am - 6:00 pm
 Saturday January 14, 2017
-2 morning workshop and 2 afternoon talks/interactive sessions
-$10 suggested donation at the door (no one turned away for lack of funds). Registration and details online: https://tomesh.net/2017-01-14/mini-conference/
+Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George St
+
+$10 suggested donation at the door (no one turned away for lack of funds).
+Registration and more details:
+https://tomesh.net/state-of-our-networks/
