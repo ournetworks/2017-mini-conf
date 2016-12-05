@@ -19,3 +19,4 @@ Semaphore Demo Room, BL 417, Claude T. Bissell, 140 St. George St
 $10 suggested donation at the door (no one turned away for lack of funds).
 Registration and more details:
 https://tomesh.net/state-of-our-networks/
+also available on: ipfs/QmU8TcQW3WybyCdYEAUpQCDNrStVDzDonhm9X69Z5Z2LTb
