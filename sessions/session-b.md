@@ -1,4 +1,4 @@
-# Session B: Creating low-power sensor networks using LoRa
+# Session B: DIY Low Power Networks: Creating long range sensor networks using LoRa
 
 ## Description
 
@@ -19,9 +19,12 @@ In this session, I will give a brief overview of low-power wide area networks (L
 50 mins
 
 ## Materials
+* Laptop (not provided, please bring your own)
+* Adafruit LoRa feather boards (provided, limited number of kits available for sharing during workshop or purchase)
+* Micro-usb cables to communicate with featherboard (provided)
+* Breadboards, wires, basic sensors/actuators (basic LED's, buttons provided, bring your own if you have a project in mind)
 
-* I have a few Adafruit LoRa feather boards (include LoRa radio + Arm M0 microcontroller board) for loan or purchase (each is about CAD $50)
-* Participants are encouraged to bring any arduinos or microcontroller projects they would like to add LoRa connectivity to
+Participants are welcome to bring any projects they would like to add LoRa connectivity to.
 
 ## Registration
 
