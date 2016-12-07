@@ -20,8 +20,8 @@ In this session, I will give a brief overview of low-power wide area networks (L
 
 ## Materials
 * Laptop (not provided, please bring your own)
-* Adafruit LoRa feather boards (provided, limited number of kits available for sharing during workshop or purchase)
-* Micro-usb cables to communicate with featherboard (provided)
+* [Adafruit LoRa M0 feather boards](https://www.adafruit.com/products/3178) (provided, limited number of kits available for sharing during workshop or purchase)
+* Micro-USB cables to communicate with the LoRa boards (provided)
 * Breadboards, wires, basic sensors/actuators (basic LED's, buttons provided, bring your own if you have a project in mind)
 
 Participants are welcome to bring any projects they would like to add LoRa connectivity to.
