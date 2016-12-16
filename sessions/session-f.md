@@ -2,9 +2,7 @@
 
 ## Description
 
-[Aim for a description that is 1-2 paragraphs (75 - 150 words)]
-
-Not only does Toronto have a rich history, it also has a vibrant landscape of current projects working to address access to internet, communications, and network literacy. Representatives from a few projects will present their goals and lead a prototyping session to identify future tactics:
+From this rich history, Toronto has a landscape of diverse projects addressing access to internet, community-owned communications, and network literacy. Representatives from a few projects will present their aims and lead a session to identify future tactics:
 
 ## Session Objective
 
