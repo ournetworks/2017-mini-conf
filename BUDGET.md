@@ -11,7 +11,7 @@
 ------
   $250 Budget
 
-Donations go to covering stickers and catering first and that I'd cover the remainder, esp. thank you for speakers
+Donations go to covering stickers and catering first, @dcwalk to cover the remainder, esp. thank you for speakers.
 
 ## Sticker Quotes
 
