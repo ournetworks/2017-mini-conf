@@ -37,14 +37,6 @@ Twitter: [@fc00ansuz](https://twitter.com/fc00ansuz)
 GitHub: [ansuz](https://github.com/ansuz)  
 Url(s): [transitiontech.ca](https://transitiontech.ca)
 
-Name: Benedict Lau  
-Email: benedict.lau@groundupworks.com  
-Twitter: [@LauBenedict](https://twitter.com/LauBenedict)  
-GitHub: [benhylau](https://github.com/benhylau)  
-Url(s): [groundupworks.com](http://www.groundupworks.com)
-
 ## Presenter Bio
 
 ansuz is a Toronto-based hacker temporarily stuck in Paris.
-
-Benedict is a Toronto-based engineer who believes in knowledge sharing and appropriate technology principles. He enjoys building things that fascinate him, which on rare occasions turn out useful for other people. Lately he's been spending much time on mobile software and exploring the wonderful world of distributed systems.
