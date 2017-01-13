@@ -26,7 +26,7 @@ Confirmed schedule details are **in bold**. Descriptions and logistic details wi
 | 9:15 | 0:30 | **A** | _Welcome_ <br /> [Introduction to mesh and community wireless]() | _??_ |  |
 | 9:45 | 1:05 | **B** | _Workshop_ <br /> **[DIY Low Power Networks: Creating long range sensor networks using LoRa](https://github.com/tomeshnet/mini-conf-2017/blob/master/sessions/session-b.md)** | udit | ✓ |
 | 11:00 | 1:20 | **C** | _Workshop_ <br /> **[Build a Mesh Node: Meshing with cjdns and messing with secure-scuttlebutt](https://github.com/tomeshnet/mini-conf-2017/blob/master/sessions/session-c.md)** | ansuz | ✓ |
-| 12:30 | 0:30 | **D** | _Demo_ <br /> [MeshISP]() | _ethan_, _??_, and _??_ |  |
+| 12:30 | 0:30 | **D** | _Demo_ <br /> **[MeshISP: Ethereum-enabled Wireless Internet Sharing Economy](https://github.com/tomeshnet/mini-conf-2017/blob/master/sessions/session-d.md)** | _ethan_ | ✓ |
 | 13:00 | 0:50 |  | **LUNCH BREAK** |  |  |
 
 ### Afternoon: "Past & Future"
