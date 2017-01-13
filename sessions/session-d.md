@@ -1,4 +1,4 @@
-# Session D: Ethereum enabled wireless internet sharing economy
+# Session D: MeshISP: Ethereum-enabled Wireless Internet Sharing Economy
 
 ## Description
 
