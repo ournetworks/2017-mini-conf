@@ -3,8 +3,20 @@
 ## Expenses
 
 ~~~
-  $ 98.04 Stickers (2017-12-29 by dcwalk)
--------
+  $ 98.04 Stickers (2016-12-29 by dcwalk)
+  $ 79.10 Afternoon Coffee Break (2017-01-14 by dcwalk)
+  $ 50.00 Presenters thank you coffee card (2017-01-13 by dcwalk)
+----------
+  $ 227.14 
+~~~
+
+## Donations
+
+~~~
+  $  25.00 Sticker Fund
+  $ 140.00 Donations on the day
+-----------
+  $ 165.00
 ~~~
 
 ## Overall Budget
