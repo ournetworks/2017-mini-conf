@@ -1,11 +1,10 @@
 # Toronto Mesh Presents... 'State of Our Networks' Mini-conference 2017
 
-This repository collect organizing materials for the upcoming 'State of Our Networks' Mini-conference, which will be held on January 13-14, 2017.
+This repository collects organizing materials for the 'State of Our Networks' Mini-conference, which was held on January 13-14, 2017.
 
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toronto Mesh 'State of Our Networks' Mini-conference 2017</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 Advertising material icons by the [Noun Project contributors](https://thenounproject.com/) CC, GTA map by [Mortadelo2005](https://commons.wikimedia.org/wiki/File:Greater_toronto_area_map.svg) CC BY-SA 3.0.
-
 
 ## Event Pitch
 'State of Our Networks' is a one day mini-conference in January which:
